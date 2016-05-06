@@ -1,6 +1,6 @@
 # theshinyapp-
 Use the following link to RUN the shiny application: https://nikotbg.shinyapps.io/shiny_project/
-Use the following link to RUN the slidify "ShinyApp Pitch" presentation: 
+Use the following link to RUN the slidify "ShinyApp Pitch" presentation: http://nikotbg.github.io/theshinyapp-/index.html#5
 
 PROJECT OVERVIEW & INSTRUCTIONS
 
